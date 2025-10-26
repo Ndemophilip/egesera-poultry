@@ -5,11 +5,11 @@ import { motion } from "framer-motion";
 import { useEffect, useState } from "react";
 
 const heroImages = [
-  "/images/poultry1.png",
-  "/images/poultry2.png",
-  "/images/poultry3.png",
-  "/images/poultry4.png",
-  "/images/poultry5.png",
+  "/Images/poultry1.png",
+  "/Images/poultry2.png",
+  "/Images/poultry3.png",
+  "/Images/poultry4.png",
+  "/Images/poultry5.png",
 ];
 
 export default function HomePage() {
